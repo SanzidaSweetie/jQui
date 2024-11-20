@@ -1,1 +1,1 @@
-# jQui
+https://sanzidasweetie.github.io/jQui/
